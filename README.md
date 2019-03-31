@@ -6,6 +6,8 @@ git clone https://github.com/yehia-hacker/EgyMor
 
 cd EgyMor
 
+chmod +x *
+
 python2 setup.py
 
 ---------------------
