@@ -11,6 +11,6 @@ chmod +x *
 python2 setup.py
 
 ---------------------
-Yoy can run it any other time Via a Number 0
+You can run it any other time Via a Number 1
 -----------------------------------------------
 Thanks
